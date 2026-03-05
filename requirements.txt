@@ -1,0 +1,6 @@
+vk_api
+gspread
+oauth2client
+pandas
+requests
+python-dotenv
